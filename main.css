@@ -8,11 +8,4 @@ body {
   background-image: url(./images/pattern-bg-desktop.png);
   background-repeat: no-repeat, repeat;
   background-size: cover;
-}
-
-.img {
-  -o-object-fit: contain;
-     object-fit: contain;
-  width: auto;
-  height: auto;
 }/*# sourceMappingURL=main.css.map */
